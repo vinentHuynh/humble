@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-humble-dev-145823-authRole",
+      "UnauthRoleArn": "arn:aws:iam::098593159941:role/amplify-humble-dev-145823-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::098593159941:role/amplify-humble-dev-145823-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-humble-dev-145823-deployment",
+      "UnauthRoleName": "amplify-humble-dev-145823-unauthRole",
+      "StackName": "amplify-humble-dev-145823",
+      "StackId": "arn:aws:cloudformation:us-east-1:098593159941:stack/amplify-humble-dev-145823/ef553b10-2c8b-11ed-bd6e-12638d1199f5",
+      "AmplifyAppId": "d4u9n1ngtg5k1"
+    }
+  }
+}
